@@ -1,0 +1,8 @@
+- args:
+    definition:
+      forward_client_headers: false
+      headers: []
+      timeout_seconds: 60
+      url: https://test-c8a6790725.herokuapp.com/test-prisma/dev
+    name: prisma-test
+  type: add_remote_schema
